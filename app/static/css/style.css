@@ -1,0 +1,8 @@
+body { background:#f5f7fb; }
+.hero { background:linear-gradient(135deg,#eaf2ff,#fff); }
+.card { border:0; }
+.verification-icon { font-size:4rem; }
+.hash { word-break:break-all; }
+.certificate-preview { background:#fff; max-width:900px; min-height:600px; padding:70px; border:10px double #222; }
+.certificate-preview h1 { letter-spacing:2px; }
+.certificate-preview h2 { font-size:2.5rem; }
